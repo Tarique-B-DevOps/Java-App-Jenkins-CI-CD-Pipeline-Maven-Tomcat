@@ -23,6 +23,6 @@
 
 - ## Application
 
-![Screenshot (63)](https://user-images.githubusercontent.com/86839948/216021938-3ac8a89a-c68c-4cce-9c6d-69e9cb5bb4c1.jpg)
+![Screenshot (72)](https://user-images.githubusercontent.com/86839948/216023576-dbe7feba-a573-4e34-b61a-b81bf237ed19.png)
 
-![Screenshot (65)](https://user-images.githubusercontent.com/86839948/216021947-cef7d88d-9789-408b-8ec5-bbe4ce6f79c1.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/86839948/216024070-306464af-7678-4616-8386-19a26e484d5d.png)
