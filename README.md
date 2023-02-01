@@ -1,4 +1,4 @@
-# Jenkins CI/CD pipeline for Java application with Maven and Tomcat.
+# Jenkins CI/CD pipeline for Java application with Maven, Tomcat and Google Cloud.
 
 ### Tools & Technologies Used
 
